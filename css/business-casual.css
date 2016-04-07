@@ -183,7 +183,7 @@ footer p {
     }
 }
 
-@media screen and (min-width:1200px) {
+@media screen and (min-width:100px) {
     .box:after {
         content: '';
         display: table;
